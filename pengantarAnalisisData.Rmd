@@ -460,6 +460,8 @@ head(vegSp)
 ```
 ]
 
+Untuk lebih banyak `function()` dalam `vegan`, bisa lihat di https://rpubs.com/an-bui/vegan-cheat-sheet (contoh: `?diversity()`, `?adonis()`, `?rda()`)
+
 ---
 
 # Analisis data dengan eksplorasi (statistik deskriptif)
