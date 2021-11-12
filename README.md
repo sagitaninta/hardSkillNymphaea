@@ -8,4 +8,4 @@ Materi analisis data biologi dalam latihan ini dibuat berdasarkan publikasi “D
 
 Data dalam publikasi tersebut dapat diunduh dari Dryad dalam tautan berikut: https://datadryad.org/stash/dataset/doi:10.5061/dryad.k48h616.
 
-Jika ada permasalahan dalam menggunakan dan mengakses materi ini, silakan klik *Issues* -> *New Issues* dan pesan Anda akan langsung masuk ke Inbox saya.
+Jika ada permasalahan dalam menggunakan dan mengakses materi ini, silakan klik *Issues* -> *New issue* dan pesan Anda akan langsung masuk ke Inbox saya.
